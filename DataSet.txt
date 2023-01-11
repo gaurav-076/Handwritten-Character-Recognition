@@ -1,0 +1,6 @@
+Because its not that simple to get a Dataset to train CNN to recognize Alphabets, Numbers and devnagry together, but they are always done seperatly.
+so I combined "A_Z Handwritten Data", "mnist" and "Devnagri" datasets to create a new dataset containing all Alphabets Numeric and Devnagri values.
+you can find the Dataset at LINK: https://drive.google.com/file/d/1oYq_evU0hLL5Sike0wpcbSXQopm34feq/view?usp=sharing
+
+The dataset seems very not well organize as numbers and alphabet dataset contains much more data than devnagri. So, I made all of them equal to increase accuracy.
+The new balanced Dataset at LINK: https://drive.google.com/file/d/1_ZW3mIRwnOBzOMn_S9_uhDg_ZJDL8L7P/view?usp=sharing
