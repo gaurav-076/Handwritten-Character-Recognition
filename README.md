@@ -10,6 +10,6 @@ of both handwritten and printed documents using a computer.
 For running the code,
 Download the Dataset from the link provided in Dataset.txt
 
-Run Train.py python code to train your device, you are free to change epochs as it can take highly more time in slower device if epochs is higher but increases the accuracy to certain extend, but still accuracy remains poor ): ):
+Run Train.py python code to train your device, you are free to change epochs as it can take highly more time in slower device if epochs is higher but increases the accuracy to certain extend.
 
 Run Predict.py for the prediction, only a sample is provided, but other samples can be freely used.
